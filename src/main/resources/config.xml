@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bean>
+    <arguments>
+        <entry>
+            <key>String</key>
+            <value>Javid</value>
+        </entry>
+    </arguments>
+    <className>com.asgarov.Person</className>
+    <id>1</id>
+</bean>
